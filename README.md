@@ -28,3 +28,4 @@ https://github.com/radstrawhat/EKF-Localization
 
 ### Trajectory planning
 Polynomial based trajectory planning, using quintic polynomials and bernstein polynomial. Implementation of obstacle avoidance shown in a toy example.
+https://github.com/radstrawhat/Polynomial-trajectory-planning
