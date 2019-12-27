@@ -13,6 +13,10 @@ https://github.com/radstrawhat/Transformations-and-Camera-Modelling
 * Two view reconstruction along with random sampling consensus for a scene, written in MATLAB.
 https://github.com/radstrawhat/Two_view_reconstruction
 
+### PnP resection with Levenberg Marquadt Optimization
+Recover pose using an iterative Perspective n point algorithm given a reconstructed scene by finding 2D-3D correspondences. 
+https://github.com/radstrawhat/PnP-Levenberg-Marquadt
+
 ### Visual Odometry
 Recovering egomotion based on monocular camera input of an agent. Takes in scenes from KITTI dataset and outputs an accurate plot of the path taken.
 https://github.com/radstrawhat/Visual-Odometry
@@ -29,3 +33,6 @@ https://github.com/radstrawhat/EKF-Localization
 ### Trajectory planning
 Polynomial based trajectory planning, using quintic polynomials and bernstein polynomial. Implementation of obstacle avoidance shown in a toy example.
 https://github.com/radstrawhat/Polynomial-trajectory-planning
+
+### Frenet frame based Obstacle Avoidance
+Coming soon!
